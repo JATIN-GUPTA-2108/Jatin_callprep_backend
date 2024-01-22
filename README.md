@@ -1,8 +1,8 @@
-run "npm i" to download dependencies
+# run "npm i" to download dependencies
 
 create .env file with mongoDB url (complete with pssword and name) and port number , can also directly input the url an port number instead of process.env.DATABASE_URI or process.env.PORT 
 
-run "npm start" or "node app.js"  to start backend
+# run "npm start" or "node app.js"  to start backend
 
 
 used thunderclient to test these endpoints  , can also use postman   
